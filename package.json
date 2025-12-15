@@ -1,0 +1,19 @@
+{
+  "name": "purchase-with-me",
+  "version": "1.0.0",
+  "description": "Amazon Affiliate Marketing Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["amazon", "affiliate", "marketing", "ecommerce"],
+  "author": "Banu",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
